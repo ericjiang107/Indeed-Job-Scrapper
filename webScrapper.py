@@ -43,7 +43,7 @@ def transform(soup):
 
 joblist = []
 # for loop to iterate through the pages: (0-40 meaning 3 pages since its going by incremements of 10)
-for i in range(0,40,10):
+for i in range(0,100,10):
     print(f'Getting page: {i}')
     c = extract(i)
     transform(c)

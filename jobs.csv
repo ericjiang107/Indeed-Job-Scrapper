@@ -1,61 +1,151 @@
 ,title,company,salary,summary
 0,new,Indeed,"$134,000 - $194,000 a year","Every week sees the new release of multiple products that meet the growing needs of millions of jobseekers worldwide.Seattle 132,000 - 192,000 USD per year."
 1,new,Indeed,"$132,000 - $192,000 a year","Lead and mentored other engineers on the team.It will provide internal client teams self-service abilities such as read, process, and update for individual job…"
-2,new,Indeed,"$132,000 - $192,000 a year","Every week sees the new release of multiple products that meet the needs of job seekers worldwide.Design, develop, and maintain pipelines that create search…"
-3,new,Indeed,"$134,000 - $194,000 a year","Every week sees the new release of multiple products that meet the growing needs of millions of jobseekers worldwide.Seattle 132,000 - 192,000 USD per year."
-4,new,Indeed,"$109,000 - $159,000 a year","Deep understanding of the full software development life cycle (SDLC), including coding standards, code review, source control, build, test, deploy, and…"
-5,new,Indeed,"$180,000 - $260,000 a year","Deep understanding of the full software development life cycle (SDLC), including coding standards, code review, source control, build, test, deploy, and…"
-6,new,Etsy,,"On the Engineering side, we are responsible for constructing and maintaining the systems necessary to store, transform, and serve product metadata."
+2,new,Indeed,"$132,000 - $192,000 a year","Design, develop, and deliver product features as a full-stack engineer.Work with Product Manager to measure, analyze, and improve product metrics using tools…"
+3,new,Indeed,"$109,000 - $159,000 a year","Deep understanding of the full software development life cycle (SDLC), including coding standards, code review, source control, build, test, deploy, and…"
+4,new,Indeed,"$180,000 - $260,000 a year","Deep understanding of the full software development life cycle (SDLC), including coding standards, code review, source control, build, test, deploy, and…"
+5,new,Etsy,,"On the Engineering side, we are responsible for constructing and maintaining the systems necessary to store, transform, and serve product metadata."
+6,Software Engineer,Underdog.io,"$75,000 - $185,000 a year","They're working on interesting technical challenges and must be respectful of your time to stay active.Experience in libraries and frameworks such as React,…"
 7,"Associate Software Engineer, Media Engineering",Disney Streaming Services,,Minimum 1 years’ experience with developing software products.You will be joining the team that manages the automated processing of every piece of media…
 8,new,Etsy,,Are an experienced engineer focused on around 70% back-end and 30% front-end coding in PHP & JavaScript or similar codebases.
 9,new,"Two Sigma Investments, LLC.",,"Experience developing high-performance, multi-threaded applications using several programming languages including java or C++."
 10,Software Engineer I,Conde Nast,,"We work with engineers across time zones & locations.Teams are encouraged to explore creative ideas to meet the Product vision, backed by rigorous techniques."
 11,2022 Software Engineer Program - Full Time Opportunity,"JPMorgan Chase Bank, N.A.",,"Create and improve the design, analytics, coding and testing for high-quality software and new products.Participate in our Force for Good program to develop…"
-12,new,Amazon.com Services LLC,,"You should also be familiar with, have a view on when to use, and be comfortable implementing server-side rendering related technologies (e.g. Spring MVC, Node…"
+12,Software Engineer - Frontend,Uber,,At least five (5) years of software engineering experience.Bachelor’s degree in Computer Science or related technical field or equivalent practical experience.
 13,Python/AWS Software Engineer,Deloitte,,Participate in the development and delivery of solutions that directly impacts day to day activities of our clients.Handle multiple tasks on daily basis.
 14,new,PayPal,,3+ years experience building software or web applications with object oriented or functional programming languages.
 15,new,"Two Sigma Investments, LLC.",,"Experience developing high-performance, multi-threaded applications using several programming languages including java or C++."
 16,Software Engineer I,Conde Nast,,"We work with engineers across time zones & locations.Teams are encouraged to explore creative ideas to meet the Product vision, backed by rigorous techniques."
 17,2022 Software Engineer Program - Full Time Opportunity,"JPMorgan Chase Bank, N.A.",,"Create and improve the design, analytics, coding and testing for high-quality software and new products.Participate in our Force for Good program to develop…"
-18,Software Engineer - Frontend,Uber,,At least five (5) years of software engineering experience.Bachelor’s degree in Computer Science or related technical field or equivalent practical experience.
-19,new,Amazon.com Services LLC,,"You should also be familiar with, have a view on when to use, and be comfortable implementing server-side rendering related technologies (e.g. Spring MVC, Node…"
-20,Python/AWS Software Engineer,Deloitte,,Participate in the development and delivery of solutions that directly impacts day to day activities of our clients.Handle multiple tasks on daily basis.
-21,Software Engineer II - Membership Backend,Uber,,"You will lead projects and drive cross-team collaboration with engineers across various product teams, including UberEats, Rides, FinTech, etc."
-22,new,PayPal,,3+ years experience building software or web applications with object oriented or functional programming languages.
-23,new,The New York Times,,"Passionate about building quality software.6+ years backend engineering experience using Go, Java, Node or a similar technology."
-24,new,The New York Times,,5+ years experience as a lead software engineer.Provided technical mentorship to developer and non-developer team members.Who we’re looking for.
-25,New Graduate Software Engineer,"Discovery, Inc.",,"Computer Science fundamentals in object-oriented design, data structures, algorithm design, problem solving, and complexity analysis."
-26,new,Impact,,"Tertiary qualification in Information Technology, Computer Science or similar.Move incredibly fast with continuous deployment to build our vibrant marketplace…"
-27,new,Etsy,,You have experience with streaming analytics and/ or machine learning.Support and empower your colleagues around the company to seek input on new features and…
-28,Campus Recruitment - 2022 Full Time Software Engineer,Amex,,"You may work in areas ranging from machine learning leveraging big data, native mobile applications, backend services, full stack web applications, or UX/UI…"
-29,Junior Software Engineer/Programmer,New York District Attorney's Office,"$65,000 a year","Bachelor's degree required, preferably in Information Technology, Computer Science/Engineering, or similar field.Two (2) year commitment to hiring department."
-30,Software Engineer II - Membership Backend,Uber,,"You will lead projects and drive cross-team collaboration with engineers across various product teams, including UberEats, Rides, FinTech, etc."
-31,new,Etsy,,"We work in Scala, SQL, Java, PHP, Python and Javascript frameworks such as React; with big data frameworks like Hadoop, Kafka, Spark, Airflow, Vertica, Looker…"
-32,new,Hulu,,This team manages the payments of millions of customers and is responsible for integrating with different payment processors.
-33,Software Test Engineer,RTTS,"$60,000 - $70,000 a year","Ongoing development of your skills working with web technologies, server-side software and database platforms.$60k - 70K, depending on experience."
-34,Software Engineer,Disney Streaming Services,,5+ years of software development experience.Prior experience working with and contributing to open source software.Prior experience with DNS servers.
-35,new,My Aidin,,Experience with front-end frameworks and server-side JavaScript is a plus.Knowledge of object-oriented design (or functional programming) is also a huge plus.
-36,"Backend Engineer, Consumer Experience",Spotify,,You’re familiar with designing and building distributed and scalable systems and enjoy seeing millions of users running your code.
-37,new,CBS,,"Server-side skills (Linux/Unix), including scripting.Follow CBS Interactive on Twitter and Facebook.Working on the CBS News Engineering team, the candidate…"
-38,new,Carbon Five,,"At Carbon Five, you will work on a single cross-disciplinary product development team—engineers, designers, and product managers—working full-time, side-by-side…"
-39,Junior Software Development Engineer,Audible,,"Knowledge of professional software development life cycle best practices, including coding standards, code reviews, source control management, continuous…"
-40,new,WarnerMedia,,The Daily Work with a team of highly motivated engineers to effectively implement solutions and deliver production quality applications that are highly…
-41,Entry Level Java Developer,Synergistic IT,,Candidate who are open to invest 3-4 months in learning about Java or Python and then have a job in the Fortune 500 Companies.*.Filing of H1b and Green Card.
-42,new,Etsy,,"We also use a lot of other technologies and languages – Scala and Java for big data and distributed systems, Python and TensorFlow for machine learning, and Go…"
-43,new,AT&T,,"Engineers work on the real-time components to optimize our software for performance, space, and algorithmic efficiency."
-44,Backend Software Development Engineer (All Levels) - Marketi...,Salesforce,"$98,900 a year","Marketing Cloud engineering builds innovative features across content, channels, data, and orchestration, as well as engineers who drive scale for our machine…"
-45,new,Bloomberg,,"After training, our engineers are prepared to hit the ground running with a strong network of new friends and colleagues.Be an excellent problem solver."
-46,Entry level opportunity for Software Engineer/Developer,Quintrix,"$57,000 a year",/week) of pre-employment online training that will be conducted during evenings and weekends.Candidates selected for the training will be paid a stipend of …
-47,"Software Engineer, Front End",CBS Television Network,,We are looking for a front-end engineer to work on an exciting new project for the Media Platforms Engineering team.This position can be 100% remote!
-48,Software Engineer II - Backend,OkCupid,,ML infrastructure: building out infrastructure to allow our engineers and data scientists to quickly and easily deploy newly trained machine learning models…
-49,new,The Mom Project,"$140,000 a year","Experience with cloud native technology stack and service-oriented architecture (Heroku, Google Cloud, AWS).5+ years experience in software and web application…"
-50,Associate Software Engineer,Allscripts,,Ownership of assigned software and non-software deliverables.Completion of all necessary software and non-software components in the timescales as defined by…
-51,Entry Level Software Engineer,BAE Systems,,"Assisting in other software engineering activities such as integration testing, algorithm & data analysis, software troubleshooting, and preparing documentation…"
-52,Junior Software Engineer,TransPerfect,,"Support software life-cycle, to include design, developing and testing under.Zero – two years of experience in software development and testing."
-53,new,Insight Global,"$200,000 - $225,000 a year","DSP Core Tech seeks to reduce the time it takes for application development teams to deliver well-tested, scalable, and highly performant software."
-54,"ICG Technology, Summer Software Development Analyst (North A...",Citi,,"You're the brains behind our work. You’re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it…"
-55,JavaScript Software Engineer (Remote Eligible - US),Dashlane,,"Learn every day, and share your knowledge with your co-workers.2+ years of experience in software development.Experience working in a product-focused company."
-56,Software Engineer - Product,Eclipse talent partners,"$120,000 - $225,000 a year",Strong proficiency with Typescript and React.Superlative positional empathy with a strong understanding of how technical decisions impact the user of what you…
-57,Software Engineer Analyst - 2022,MarketAxess,,Curiosity/interest related to cloud technologies and cloud design patterns (AWS).Experience in development/willingness to learn Java based server-side…
-58,Graduate Software Engineer (Available 2022),Arup,,Currently pursuing a bachelor’s degree in Computer Science or similar technical field of study.Master’s Degree in computer science or similar technical field…
-59,Jr Software Engineer,Book of the Month,,"Work closely with Sr. Engineers and Lead Engineers to write clean and maintainable code.Diagnose, debug, and resolve errors in a diligent, timely, and…"
+18,Python/AWS Software Engineer,Deloitte,,Participate in the development and delivery of solutions that directly impacts day to day activities of our clients.Handle multiple tasks on daily basis.
+19,new,PayPal,,3+ years experience building software or web applications with object oriented or functional programming languages.
+20,new,The New York Times,,"Passionate about building quality software.6+ years backend engineering experience using Go, Java, Node or a similar technology."
+21,new,The New York Times,,5+ years experience as a lead software engineer.Provided technical mentorship to developer and non-developer team members.Who we’re looking for.
+22,New Graduate Software Engineer,"Discovery, Inc.",,"Computer Science fundamentals in object-oriented design, data structures, algorithm design, problem solving, and complexity analysis."
+23,"Software Engineer, Experimentation",Dow Jones,,"An software engineer with at least 1 year of experience in modern web development using HTML5, CSS3 and Javascript."
+24,new,Impact,,"Tertiary qualification in Information Technology, Computer Science or similar.Move incredibly fast with continuous deployment to build our vibrant marketplace…"
+25,Campus Recruitment - 2022 Full Time Software Engineer,Amex,,"You may work in areas ranging from machine learning leveraging big data, native mobile applications, backend services, full stack web applications, or UX/UI…"
+26,new,Etsy,,You have experience with streaming analytics and/ or machine learning.Support and empower your colleagues around the company to seek input on new features and…
+27,new,Amazon.com Services LLC,,"You should also be familiar with, have a view on when to use, and be comfortable implementing server-side rendering related technologies (e.g. Spring MVC, Node…"
+28,Junior Software Engineer/Programmer,New York District Attorney's Office,"$65,000 a year","Bachelor's degree required, preferably in Information Technology, Computer Science/Engineering, or similar field.Two (2) year commitment to hiring department."
+29,Software Engineer,ACLU,"$115,638 a year","The ideal candidate is a software engineer with demonstrated experience working on a cross-functional team, architecting, building, deploying and maintaining…"
+30,new,My Aidin,,Experience with front-end frameworks and server-side JavaScript is a plus.Knowledge of object-oriented design (or functional programming) is also a huge plus.
+31,"Backend Engineer, Consumer Experience",Spotify,,You’re familiar with designing and building distributed and scalable systems and enjoy seeing millions of users running your code.
+32,new,CBS,,"Server-side skills (Linux/Unix), including scripting.Follow CBS Interactive on Twitter and Facebook.Working on the CBS News Engineering team, the candidate…"
+33,new,Carbon Five,,"At Carbon Five, you will work on a single cross-disciplinary product development team—engineers, designers, and product managers—working full-time, side-by-side…"
+34,Junior Software Development Engineer,Audible,,"Knowledge of professional software development life cycle best practices, including coding standards, code reviews, source control management, continuous…"
+35,new,WarnerMedia,,The Daily Work with a team of highly motivated engineers to effectively implement solutions and deliver production quality applications that are highly…
+36,new,AT&T,,"Thrive on helping to empower and raise up your colleagues.Collaborate regularly with designers, a variety of engineers and product managers."
+37,Entry Level Java Developer,Synergistic IT,,Candidate who are open to invest 3-4 months in learning about Java or Python and then have a job in the Fortune 500 Companies.*.Filing of H1b and Green Card.
+38,new,AT&T,,"Engineers work on the real-time components to optimize our software for performance, space, and algorithmic efficiency."
+39,Backend Software Development Engineer (All Levels) - Marketi...,Salesforce,"$98,900 a year","Marketing Cloud engineering builds innovative features across content, channels, data, and orchestration, as well as engineers who drive scale for our machine…"
+40,Entry Level Software Developer,PROSIGHT SPECIALTY INSURANCE,,Setup tables and implement rules to meet business and system requirements.ProSight’s business model focuses on specific customer niches and delivers a…
+41,Junior Software Engineer,BuyTheSell,"$60,000 - $80,000 a year","Design, build and support an always available, globally redundant cloud-based SaaS platform.Experience building cloud-based solutions."
+42,Software Engineer II,Disney Streaming Services,,"BS/MS Degree in Computer Science or equivalent with 1 to 5 years of experience in backend development.Knowledge/experience with AWS products and services (ECS,…"
+43,Associate Software Engineer,Scholastic,,This candidate will work as part of an interdisciplinary team of closely aligned business units to manage the full software development life cycle.
+44,JUNIOR SOFTWARE ENGINEER - WEB ADMINISTRATOR,NYC Careers,"$66,597 - $76,587 a year","Working on a digital product team, the developer will participate in all aspects of web application development, including development of custom APIs, security …"
+45,Backend Software Development Engineer (All Levels) - Marketi...,Salesforce,"$98,900 a year","Marketing Cloud engineering builds innovative features across content, channels, data, and orchestration, as well as engineers who drive scale for our machine…"
+46,new,Etsy,,Knowledgeable of how software design decisions impact hardware resources.Expert contributor to functional and/or object-oriented back-end framework (Typescript…
+47,Entry Level Software Developer,PROSIGHT SPECIALTY INSURANCE,,Setup tables and implement rules to meet business and system requirements.ProSight’s business model focuses on specific customer niches and delivers a…
+48,Junior Software Engineer,BuyTheSell,"$60,000 - $80,000 a year","Design, build and support an always available, globally redundant cloud-based SaaS platform.Experience building cloud-based solutions."
+49,Associate Software Engineer,Scholastic,,This candidate will work as part of an interdisciplinary team of closely aligned business units to manage the full software development life cycle.
+50,JUNIOR SOFTWARE ENGINEER - WEB ADMINISTRATOR,NYC Careers,"$66,597 - $76,587 a year","Working on a digital product team, the developer will participate in all aspects of web application development, including development of custom APIs, security …"
+51,Software Engineers & Web Developers,1DocWay,,"Provide support to other engineers through code-reviews, peer-programming and weekly tutorials.The 6 month program focuses on including elements of program…"
+52,Jr. Software Engineer - TAP,Chubb INA Holdings Inc.,,On-the-job and educational technical training (offered through Pluralsight) to enhance skills within your chosen discipline.
+53,new,Major League Baseball,,Collaborate with software engineers to ensure systems are properly designed for testability.You'll be working with our Baseball Enterprise Software Engineering…
+54,new,Disney Streaming Services,,"5+ years of experience building software with JavaScript, Relational Databases.In addition, the Engineer will regularly collaborate with, and actively support…"
+55,new,Change Healthcare,,"Investigate, analyze and document reported software defects.Troubleshooting software performance issues and investigating defect reports."
+56,new,Bloomberg,,"After training, our engineers are prepared to hit the ground running with a strong network of new friends and colleagues.Be an excellent problem solver."
+57,Entry level opportunity for Software Engineer/Developer,Quintrix,"$57,000 a year",/week) of pre-employment online training that will be conducted during evenings and weekends.Candidates selected for the training will be paid a stipend of …
+58,"Software Engineer, Front End",CBS Television Network,,We are looking for a front-end engineer to work on an exciting new project for the Media Platforms Engineering team.This position can be 100% remote!
+59,new,"JPMorgan Chase Bank, N.A.",,"Understanding of software skills such as business analysis, development, maintenance, and software improvement.BS/BA degree or equivalent experience."
+60,Jr. Software Engineer - TAP,Chubb INA Holdings Inc.,,On-the-job and educational technical training (offered through Pluralsight) to enhance skills within your chosen discipline.
+61,new,Major League Baseball,,Collaborate with software engineers to ensure systems are properly designed for testability.You'll be working with our Baseball Enterprise Software Engineering…
+62,new,Disney Streaming Services,,"5+ years of experience building software with JavaScript, Relational Databases.In addition, the Engineer will regularly collaborate with, and actively support…"
+63,new,Change Healthcare,,"Investigate, analyze and document reported software defects.Troubleshooting software performance issues and investigating defect reports."
+64,new,Bloomberg,,"After training, our engineers are prepared to hit the ground running with a strong network of new friends and colleagues.Be an excellent problem solver."
+65,Entry level opportunity for Software Engineer/Developer,Quintrix,"$57,000 a year",/week) of pre-employment online training that will be conducted during evenings and weekends.Candidates selected for the training will be paid a stipend of …
+66,"Software Engineer, Front End",CBS Television Network,,We are looking for a front-end engineer to work on an exciting new project for the Media Platforms Engineering team.This position can be 100% remote!
+67,new,"JPMorgan Chase Bank, N.A.",,"Understanding of software skills such as business analysis, development, maintenance, and software improvement.BS/BA degree or equivalent experience."
+68,Software Engineer II - Backend,OkCupid,,ML infrastructure: building out infrastructure to allow our engineers and data scientists to quickly and easily deploy newly trained machine learning models…
+69,Entry Level Software Engineer,BAE Systems,,"Assisting in other software engineering activities such as integration testing, algorithm & data analysis, software troubleshooting, and preparing documentation…"
+70,Associate Software Engineer,Allscripts,,Ownership of assigned software and non-software deliverables.Completion of all necessary software and non-software components in the timescales as defined by…
+71,Junior Software Engineer,TransPerfect,,"Support software life-cycle, to include design, developing and testing under.Zero – two years of experience in software development and testing."
+72,"ICG Technology, Summer Software Development Analyst (North A...",Citi,,"You're the brains behind our work. You’re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it…"
+73,new,"Amplify Education, Inc.",,Understanding of good software design and modern software engineering practices.Ensuring an equitable experience for students by implementing code that runs…
+74,JavaScript Software Engineer (Remote Eligible - US),Dashlane,,"Learn every day, and share your knowledge with your co-workers.2+ years of experience in software development.Experience working in a product-focused company."
+75,new,BlackRock,,"Work alongside project managers, technical architects and product leads to build software that drives engineering practices, developer systems and SDLC…"
+76,new,DLH Corp,"$120,000 - $200,000 a year","Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews…"
+77,Software / Web Developer,Source Enterprises,,Some of our former interns (on the software development side as well as graphic design and marketing dept.).Develop your skills and augment your training with…
+78,Software Engineer - (Java/Python),FanDuel,,"Experience and passion for writing distributed, highly scalable and available backend systems & APIs using Java and/or Python or similar programming languages."
+79,Software Engineer - iOS - All Levels,FanDuel,,"Minimum 1 years of Industry Experience building production software preferred.Strong, object-oriented design and coding skills."
+80,Software Engineer II - Web,OkCupid,,You will help us continue building beautiful and performant user interfaces and shaping the OkCupid product.Engineer beautiful and performant user interfaces.
+81,"Payments Software Engineer, Apple Pay",Apple,,"Develop highly reliable, scalable Java server platforms with an attention to detail - Collaboratively designing server APIs with cross-functional teams for an…"
+82,Software Development Engineer I,Audible,,"Knowledge of professional software development life cycle best practices, including coding standards, code reviews, source control management, continuous…"
+83,new,Qrypt,,The CaaS product line is a set of client library SDKs and cloud-native services that help Qrypt’s clients integrate post-quantum and everlasting security into…
+84,Software Engineer (All Levels),Ribbon Health,,"You have some experience designing, building, and/or managing scalable systems in the cloud (e.g., AWS, Google Cloud, Azure)."
+85,Software Engineer,Embark,,Exceptional programming skills and an obsession with building quality software.For those new to coding - bachelor's degree in a technical or quantitative field…
+86,new,IBM,,"Financial programs that empower you to plan, save, and manage your money (including expert financial counseling, 401(k), IBM stock discount, etc.)."
+87,"Junior Software Engineer, Full-Stack",CharterUP,"$85,000 a year","We are looking for someone who understands software architecture, data modeling, and object-oriented programming concepts.You must be a coder."
+88,Entry Level - Associate Developer (Commercial): Front End,IBM,,"Employ IBM's Design Thinking to create products that provide a great user experience along with high performance, security, quality, and stability."
+89,new,Etsy,,"We work in Scala, SQL, Java, PHP, and Javascript frameworks such as React; with big data frameworks like Hadoop, Kafka, Scalding, Spark, Airflow, Vertica,…"
+90,new,Etsy,,"We work in Scala, SQL, Java, PHP, and Javascript frameworks such as React; with big data frameworks like Hadoop, Kafka, Scalding, Spark, Airflow, Vertica,…"
+91,new,Cornerstone Information Systems,,Analyze project requirements and design scalable production quality solutions.Design and develop application features as part of an Agile development process.
+92,new,"CoEnterprise, LLC",,"Able to develop SPA (Single Page Applications) consuming server-side JSON restful services.Participate in an Agile development process, utilizing industry…"
+93,new,Slack,,Salesforce.com and Salesforce.org will not pay any third-party agency or company that does not have a signed agreement with Salesforce.com or Salesforce.org .
+94,Software Engineer - Opportunity for Working Remotely New Yor...,VMware,,"You will collaborate with other functions such as program management, QE engineers, and SRE engineers to improve the product.Full Time/ Part Time: Full Time."
+95,new,T.M. Bier & Associates,"$50,000 - $65,000 a year",Programming and configuring Building Automation Systems in a proprietary object-oriented programming language.Employer Matched 401K and Profit Sharing.
+96,new,Trinity Consulting,"$75,000 - $120,000 a year","3+ years of experience in software development.They will participate in all phases of the Software Development Life cycle, including requirements analysis,…"
+97,new,Comcentric,"$125,000 - $225,000 a year","We are seeking Site Reliability Engineers (software engineers/developers being considered as well) for Permanent, Full Time Employment for our direct client -…"
+98,new,Etsy,,"Work cross-functionally with various platform teams, ML teams and product partners to build the next generation of our high availability search platform in the…"
+99,new,"JPMorgan Chase Bank, N.A.",,"Have a track record as a software engineer with experience in Python, Java, SQL.Understanding of software skills such as business analysis, development,…"
+100,Staff Software Engineer,Spotify,,"You’ll advocate for unification of infrastructure, tools and languages where clients are similar in structure to lower the cost of ownership and increase the…"
+101,new,AT&T,"$95,500 - $190,900 a year","You’ll collaborate with a variety of internal teams, vendors and/or internal information systems to meet changing requirements."
+102,Python Software Engineer,"JPMorgan Chase Bank, N.A.",,Experience in service-oriented architecture and API implementation.Enhance the team by demonstrating best practice throughout the software development…
+103,new,eMoney Advisor,"$129,000 - $168,000 a year","Provides input to Engineering Coach on skills recommendations and performance of engineers.Expert knowledge of C#, data structure, basic algorithms, and object…"
+104,new,Gemini,,"We value a thoughtful, collaborative software development process, coupled with a pragmatic approach to problem solving and delivering software."
+105,new,Gemini,,"We value a thoughtful, collaborative software development process, coupled with a pragmatic approach to problem solving and delivering software."
+106,Front End Developer,Underdog.io,"$88,000 - $192,000 a year",They're working on interesting technical challenges and must be respectful of your time to stay active.
+107,new,Amazon.com Services LLC,,"2+ years of non-internship professional software development experience.Programming experience with at least one modern language such as Java, C++, or C#…"
+108,Junior Readypipe Engineer I,Yipit Inc.,,You have 1-3 years of experience as a *full-stack web developer or front-end web developer*.Work together with engineers to build and release features for our…
+109,new,DataDog,,"As a Software Engineer - IDE Integration, you will be responsible for integrating Datadog services and technologies directly into the development environment of…"
+110,"Software Engineer, Media Targeting",Disney Streaming Services,,"Minimum 2 years of developing software products.As part of the QTE organization, we collaborate with a rich team of data scientists, software engineers, and…"
+111,new,Audible,,You are an innovative and passionate top software engineer looking to make a positive impact on customer experience.
+112,Software Test Engineer (Entry Level),RTTS,,"Ongoing development of your skills working with web technologies, server-side software and database platforms.$60-70K, depending on experience."
+113,"Backend Engineer, All Groups",Hinge,,"Help millions of users go on great dates and get off Hinge.You will be on a cross-disciplinary team including other backend engineers, mobile engineers,…"
+114,Software Engineer - Content Experience Delivery,Hulu,,Experience with New Relic or similar application monitoring software.Understanding of source control concepts and exposure to Git.
+115,Junior Software Engineer,SIXTHCONTINENT INC,,"Job Types: Full-time, Contract."
+116,Front End (ReactJS) Software Engineer I,Memorial Sloan-Kettering Cancer Center,,"Design and develop end user software applications.Familiarity with using Docker, Kubernetes or similar container technologies and setting up CI/CD pipelines is…"
+117,"Software Developer (Full-Time, Entry-Level)",Accelerated Information Systems,,Participate in the development and delivery of solutions that directly impacts day to day activities of our clients.Handle multiple tasks on daily basis.
+118,JAVA SOFTWARE ENGINEER - TOP BANK NEW YORK CITY,"ECNRSearch, Inc.","$144,000 - $187,000 a year","OOD, BUILDING SOPHISTICATED & COMPLEX APPLICATIONS: 5 years (Required).JAVA SOFTWARE ENGINEER with Top Bank in New York City, NY."
+119,"Software Engineer - Back-End (Remote, USA)",Olo,,"We offer great benefits, such as 20 days of Paid Time Off, fully paid health, dental and vision care premiums, company equity, a generous parental leave plan,…"
+120,new,Etsy,,"Have five or more years of practical software development experience.Work on automating the remediation of shop issues, so that sellers have the tools and…"
+121,Backend Software Engineer - Opportunity for Working Remotely...,VMware,,Participate in all phases of the software development cycle as part of a Scrum team.Join a talented team of developers using a wide variety of latest cloud…
+122,new,MasterCard,,Offers help with tools and products that internal service owners use to onboard their services on the developer portal.
+123,Software Engineer (Remote Work Available),GeistM,,"As a key member of our Engineering Team, you’ll be part of a relatively small, close-knit, and cross-functional team that is responsible for the full software…"
+124,new,Braintrust,$80 - $110 an hour,"Proficient in code versioning tools such as Git,Experience in agile software development.Strong experience with software delivery and taking a set of…"
+125,Software Engineer II - Membership Backend,Uber,,"You will lead projects and drive cross-team collaboration with engineers across various product teams, including UberEats, Rides, FinTech, etc."
+126,Systems: Infrastructure Software Engineer,"D. E. Shaw & Co., L.P.",,This is a hands-on software development role within a cross-platform engineering team responsible for core technology infrastructure.
+127,new,Amex,,"2+ years experience with object-oriented programming languages such as Java or .Maintain and improve software documentation leveraging README’s, Confluence and…"
+128,Software Engineer - Frontend - All Levels,Ramp,,"Ramp offers 5-in-1 software that consolidates corporate cards, expense management, bill payments, accounting, and reporting into one simple and free solution."
+129,new,Etsy,,We’re looking for engineers with experience building scalable and resilient critical path platform services.Building products and experiences for people buying…
+130,Backend Infrastructure Software Engineer,BlackRock,,"Passionate about learning, sharing knowledge, and working with a diverse team of engineers of varying levels of experience."
+131,new,Spotify,,We’re looking for senior backend engineers that are passionate about infrastructure and automation that want to help shape the future of platform engineering.
+132,2022 Software Engineer (Campus Hire),SEVEN EIGHT CAPITAL,,Involvement in a large scale open source project or similar large-scale project (a plus).Graduating in 2022 with a BS / MS / PhD from a top tier university in…
+133,Machine Learning Engineer,New York Structural Biology Center,"$90,000 - $130,000 a year","Develop machine learning software libraries for internal and external software, primarily in python with pytorch.Machine learning: 3 years (Preferred)."
+134,new,Turntide,,"Experience with sensor networks and/or embedded software.You enjoy collaborating with software engineers, sales teams, and customers."
+135,Software Engineer - Frontend - All Levels,Ramp,,"Ramp offers 5-in-1 software that consolidates corporate cards, expense management, bill payments, accounting, and reporting into one simple and free solution."
+136,new,Etsy,,We’re looking for engineers with experience building scalable and resilient critical path platform services.Building products and experiences for people buying…
+137,new,Bank of America,,"Ensures that software is developed to meet functional, non-functional, and compliance requirements.Oversee detailed execution of projects at every level -…"
+138,Backend Infrastructure Software Engineer,BlackRock,,"Passionate about learning, sharing knowledge, and working with a diverse team of engineers of varying levels of experience."
+139,new,Spotify,,We’re looking for senior backend engineers that are passionate about infrastructure and automation that want to help shape the future of platform engineering.
+140,2022 Software Engineer (Campus Hire),SEVEN EIGHT CAPITAL,,Involvement in a large scale open source project or similar large-scale project (a plus).Graduating in 2022 with a BS / MS / PhD from a top tier university in…
+141,"Senior Software Engineer, .NET Experience Team - Opportunity...",VMware,,"If you are looking to make an impact building cloud-native applications and tools, this position will give you the opportunity to work directly on the Steeltoe…"
+142,Machine Learning Engineer,New York Structural Biology Center,"$90,000 - $130,000 a year","Develop machine learning software libraries for internal and external software, primarily in python with pytorch.Machine learning: 3 years (Preferred)."
+143,new,Turntide,,"Experience with sensor networks and/or embedded software.You enjoy collaborating with software engineers, sales teams, and customers."
+144,Laboratory Associate (Software Engineer) - Angelaki Laborato...,New York University,,*Experience in software engineering is required.Support of research activities involving the troubleshooting and solution of problems related to laboratory…
+145,JUNIOR SOFTWARE DEVELOPER,Fundamental Interactions,,Work with other developers and project managers to develop and deliver software products and solution implementations.
+146,Software Test Engineer,"JPMorgan Chase Bank, N.A.",,"The ability to work closely with UX designers, product, researchers, and other engineers to deliver robust and scalable products is critical to your success in…"
+147,new,"JPMorgan Chase Bank, N.A.",,"Keen understanding of financial control and budget management.BS/BA degree or equivalent experience.Advanced knowledge of architecture, design across all…"
+148,new,IT-Alliances,"$90,000 - $100,000 a year","New York, NY: Reliably commute or planning to relocate before starting work (Preferred).High school or equivalent (Preferred).Spring Boot: 1 year (Preferred)."
+149,"Software Engineer 2, Content Intelligence",Conde Nast,,"Teaching and mentoring other engineers, both internal and external to the team.Strong sense of building products for other engineers and experience building…"
